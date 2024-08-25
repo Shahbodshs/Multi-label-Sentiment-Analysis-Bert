@@ -17,3 +17,5 @@ The first approach assigns a label of 1 or 0 based on whether the probability of
 Dont forget to check my kaggle profile for the codes and outputs: [My kaggle](https://www.kaggle.com/shahbodsobhkhiz)
 ## Dataset: 
 I might not be aloud to share the dataset but you can get it from here: [Dataset](https://www.kaggle.com/competitions/nlp-sentiment-analysis-xm).
+## Code access: 
+You can have access to  the code in the Code branch
